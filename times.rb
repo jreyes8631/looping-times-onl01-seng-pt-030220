@@ -1,5 +1,5 @@
-def phrase("Wingardium Leviosa")
-
+def phrase(phrase)
+phrase = ""
   
   
 end
